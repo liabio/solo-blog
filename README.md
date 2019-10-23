@@ -37,8 +37,8 @@
 * [kubernetes垃圾回收器GarbageCollector控制器源码分析（二）](http://blog.liabio.cn/201910162329kube)
 * [世界，你好！](http://blog.liabio.cn/hello-solo)
 * [我在 GitHub 上的开源项目](http://blog.liabio.cn/my-github-repos)
-* [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [史上最全docker基础知识汇总](http://blog.liabio.cn/201910171424docker)
+* [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [一款很好用的markdown编辑器](http://blog.liabio.cn/201910171525tools)
 * [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
@@ -49,13 +49,14 @@
 * [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 * [beego与curl三件事](http://blog.liabio.cn/201910171522beego)
 * [mysql大小写敏感与校对规则](http://blog.liabio.cn/201910171534mysql)
+* [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
 * [用go语言爬取珍爱网 | 第二回](http://blog.liabio.cn/201910181023golang)
 * [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
-* [CSDN VIP如何添加自定义栏目](http://blog.liabio.cn/201910171433blog)
 
 ### 热议
 
+* [CSDN VIP如何添加自定义栏目](http://blog.liabio.cn/201910171433blog)
 * [亚马逊AWS云服务器不合理扣费怎么处理](http://blog.liabio.cn/201910171437aes)
 * [如何批量删除k8s资源对象](http://blog.liabio.cn/201910171438kube)
 * [k8s使用Job执行任务失败了怎么办](http://blog.liabio.cn/201910171442kube)
@@ -74,7 +75,6 @@
 * [java发邮件，这个坑你能填吗？](http://blog.liabio.cn/201910171753java)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
 * [java这个404你能解决吗？](http://blog.liabio.cn/201910171756java)
-* [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [java发送手机验证码实现](http://blog.liabio.cn/201910171801java)
 
 ---
