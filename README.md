@@ -42,8 +42,10 @@
 * [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
+* [kube-apiserver审计日志记录和采集](http://blog.liabio.cn/201910181303k8s)
 * [LAMP环境部署物联网项目](http://blog.liabio.cn/201910181312lamp)
 * [推荐一款超好用的工具cmder](http://blog.liabio.cn/201910181313cmder)
+* [k8s中负载均衡器【ingress-nginx】部署](http://blog.liabio.cn/201910171445kube)
 * [一款很好用的markdown编辑器](http://blog.liabio.cn/201910171525tools)
 * [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
 * [mysql大小写敏感与校对规则](http://blog.liabio.cn/201910171534mysql)
@@ -51,8 +53,6 @@
 * [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
 * [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
-* [k8s中负载均衡器【ingress-nginx】部署](http://blog.liabio.cn/201910171445kube)
-* [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 
 ### 热议
 
@@ -64,6 +64,7 @@
 * [云服务器使用docker搭建服务](http://blog.liabio.cn/201910171444docker)
 * [利用procedure批量插入数据](http://blog.liabio.cn/201910171447mysql)
 * [linux通过VMware和主机相连连接互联网](http://blog.liabio.cn/201910171448linux)
+* [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 * [shell脚本批量调用接口](http://blog.liabio.cn/201910171449shell)
 * [java子类调用父类构造器函数](http://blog.liabio.cn/201910171451java)
 * [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
@@ -75,7 +76,6 @@
 * [自动评论csdn博客文章实现](http://blog.liabio.cn/201910171752blog)
 * [java发邮件，这个坑你能填吗？](http://blog.liabio.cn/201910171753java)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
-* [java这个404你能解决吗？](http://blog.liabio.cn/201910171756java)
 
 ---
 
