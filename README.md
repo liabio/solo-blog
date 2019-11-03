@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [搭建博客时，被mysql的sql_mode中ONLY_FULL_GROUP_BY坑倒了](http://blog.liabio.cn/201911030954mysqlblog)
 * [5分钟搭建个博客玩玩](http://blog.liabio.cn/201910242306blog)
 * [kubernetes垃圾回收器GarbageCollector源码分析](http://blog.liabio.cn/201910221057gc)
 * [kubernetes垃圾回收器GarbageCollector 源码分析（三）](http://blog.liabio.cn/201910211740k8s)
@@ -29,13 +30,13 @@
 * [java发送html模板的高逼格邮件](http://blog.liabio.cn/201910181325java)
 * [yum源配置](http://blog.liabio.cn/201910181321linux)
 * [NAT模式实现虚拟机共享主机网络](http://blog.liabio.cn/201910181320linux)
-* [vmware上安装linux过程记录](http://blog.liabio.cn/201910181319linux)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](http://blog.liabio.cn/my-github-repos)
 * [kubernetes垃圾回收器GarbageCollector控制器源码分析（一）](http://blog.liabio.cn/201910162317kube)
 * [kubernetes垃圾回收器GarbageCollector控制器源码分析（二）](http://blog.liabio.cn/201910162329kube)
+* [vmware上安装linux过程记录](http://blog.liabio.cn/201910181319linux)
 * [世界，你好！](http://blog.liabio.cn/hello-solo)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
 * [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
@@ -44,6 +45,7 @@
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
 * [云服务器使用docker搭建服务](http://blog.liabio.cn/201910171444docker)
 * [推荐一款超好用的工具cmder](http://blog.liabio.cn/201910181313cmder)
+* [mysql大小写敏感与校对规则](http://blog.liabio.cn/201910171534mysql)
 * [java加载国际化文件的几种姿势](http://blog.liabio.cn/201910171537java)
 * [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [kube-apiserver审计日志记录和采集](http://blog.liabio.cn/201910181303k8s)
@@ -51,8 +53,6 @@
 * [k8s中负载均衡器【ingress-nginx】部署](http://blog.liabio.cn/201910171445kube)
 * [一款很好用的markdown编辑器](http://blog.liabio.cn/201910171525tools)
 * [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
-* [mysql大小写敏感与校对规则](http://blog.liabio.cn/201910171534mysql)
-* [用go语言爬取珍爱网 | 第二回](http://blog.liabio.cn/201910181023golang)
 
 ### 热议
 
