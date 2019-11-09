@@ -37,22 +37,22 @@
 * [kubernetes垃圾回收器GarbageCollector控制器源码分析（一）](http://blog.liabio.cn/201910162317kube)
 * [kubernetes垃圾回收器GarbageCollector控制器源码分析（二）](http://blog.liabio.cn/201910162329kube)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910181319linux)
-* [世界，你好！](http://blog.liabio.cn/hello-solo)
 * [ReadMore 之 cnblogs 博客园使用指南](http://blog.liabio.cn/201910171430blog)
 * [云服务器使用docker搭建服务](http://blog.liabio.cn/201910171444docker)
+* [世界，你好！](http://blog.liabio.cn/hello-solo)
+* [CSDN VIP如何添加自定义栏目](http://blog.liabio.cn/201910171433blog)
 * [史上最全docker基础知识汇总](http://blog.liabio.cn/201910171424docker)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
-* [CSDN VIP如何添加自定义栏目](http://blog.liabio.cn/201910171433blog)
 * [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
-* [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
 * [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
 * [kube-apiserver审计日志记录和采集](http://blog.liabio.cn/201910181303k8s)
-* [采坑指南——k8s域名解析coredns问题排查过程](http://blog.liabio.cn/201910171439kube)
+* [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
 * [java加载国际化文件的几种姿势](http://blog.liabio.cn/201910171537java)
 * [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
-* [推荐一款超好用的工具cmder](http://blog.liabio.cn/201910181313cmder)
+* [采坑指南——k8s域名解析coredns问题排查过程](http://blog.liabio.cn/201910171439kube)
+* [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
 
 ### 热议
 
@@ -65,7 +65,6 @@
 * [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 * [shell脚本批量调用接口](http://blog.liabio.cn/201910171449shell)
 * [java子类调用父类构造器函数](http://blog.liabio.cn/201910171451java)
-* [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
 * [slf4j打印日志必须的三个依赖包](http://blog.liabio.cn/201910171521java)
 * [beego与curl三件事](http://blog.liabio.cn/201910171522beego)
 * [一款很好用的markdown编辑器](http://blog.liabio.cn/201910171525tools)
@@ -76,6 +75,7 @@
 * [自动评论csdn博客文章实现](http://blog.liabio.cn/201910171752blog)
 * [java发邮件，这个坑你能填吗？](http://blog.liabio.cn/201910171753java)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
+* [java这个404你能解决吗？](http://blog.liabio.cn/201910171756java)
 
 ---
 
