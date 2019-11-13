@@ -48,11 +48,11 @@
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
 * [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
 * [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
+* [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
 * [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
 * [java加载国际化文件的几种姿势](http://blog.liabio.cn/201910171537java)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
 * [kube-apiserver审计日志记录和采集](http://blog.liabio.cn/201910181303k8s)
-* [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
 
 ### 热议
 
