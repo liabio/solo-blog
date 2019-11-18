@@ -46,13 +46,13 @@
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
 * [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
-* [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
-* [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 * [java图形验证码实现](http://blog.liabio.cn/201910171758java)
+* [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
 * [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
-* [kube-apiserver审计日志记录和采集](http://blog.liabio.cn/201910181303k8s)
+* [go语言生成可执行文件](http://blog.liabio.cn/201910171448golang)
 * [一款最好用的windows文件管理器](http://blog.liabio.cn/201910171533windows)
+* [java加载国际化文件的几种姿势](http://blog.liabio.cn/201910171537java)
 
 ### 热议
 
@@ -70,12 +70,12 @@
 * [java、golang日志文件转储压缩实现](http://blog.liabio.cn/201910171527golangjava)
 * [mysql大小写敏感与校对规则](http://blog.liabio.cn/201910171534mysql)
 * [java中this关键字易错点和说明](http://blog.liabio.cn/201910171536java)
-* [java加载国际化文件的几种姿势](http://blog.liabio.cn/201910171537java)
 * [一款效率神器Ditto](http://blog.liabio.cn/201910171750tools)
 * [自动评论csdn博客文章实现](http://blog.liabio.cn/201910171752blog)
 * [java发邮件，这个坑你能填吗？](http://blog.liabio.cn/201910171753java)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
 * [java这个404你能解决吗？](http://blog.liabio.cn/201910171756java)
+* [java发送手机验证码实现](http://blog.liabio.cn/201910171801java)
 
 ---
 
