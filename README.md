@@ -45,20 +45,19 @@
 * [史上最全docker基础知识汇总](http://blog.liabio.cn/201910171424docker)
 * [采坑指南——k8s域名解析coredns问题排查过程](http://blog.liabio.cn/201910171439kube)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
-* [NAT模式实现虚拟机共享主机网络](http://blog.liabio.cn/201910181320linux)
 * [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
+* [NAT模式实现虚拟机共享主机网络](http://blog.liabio.cn/201910181320linux)
 * [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
 * [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 * [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
 * [浅谈json web token及应用](http://blog.liabio.cn/201910181302jwt)
+* [k8s使用Job执行任务失败了怎么办](http://blog.liabio.cn/201910171442kube)
 * [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
-* [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
 
 ### 热议
 
 * [亚马逊AWS云服务器不合理扣费怎么处理](http://blog.liabio.cn/201910171437aes)
 * [如何批量删除k8s资源对象](http://blog.liabio.cn/201910171438kube)
-* [k8s使用Job执行任务失败了怎么办](http://blog.liabio.cn/201910171442kube)
 * [k8s中负载均衡器【ingress-nginx】部署](http://blog.liabio.cn/201910171445kube)
 * [利用procedure批量插入数据](http://blog.liabio.cn/201910171447mysql)
 * [linux通过VMware和主机相连连接互联网](http://blog.liabio.cn/201910171448linux)
@@ -76,6 +75,7 @@
 * [一款效率神器Ditto](http://blog.liabio.cn/201910171750tools)
 * [自动评论csdn博客文章实现](http://blog.liabio.cn/201910171752blog)
 * [java发邮件，这个坑你能填吗？](http://blog.liabio.cn/201910171753java)
+* [java这个404你能解决吗？](http://blog.liabio.cn/201910171756java)
 
 ---
 
