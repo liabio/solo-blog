@@ -47,12 +47,12 @@
 * [世界，你好！](http://blog.liabio.cn/hello-solo)
 * [史上最全docker基础知识汇总](http://blog.liabio.cn/201910171424docker)
 * [nginx map配置根据请求头不同分配流量到不同后端服务](http://blog.liabio.cn/201910181328nginx)
-* [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [爬取珍爱网后用户信息展示](http://blog.liabio.cn/201910171809goang)
+* [docker镜像制作必备技能](http://blog.liabio.cn/articles/2019/10/17/1571293096948.html)
 * [NAT模式实现虚拟机共享主机网络](http://blog.liabio.cn/201910181320linux)
 * [MySql镜像安装](http://blog.liabio.cn/201910171520mysql)
-* [用go语言爬取珍爱网 | 第一回](http://blog.liabio.cn/2019101623181024golang)
-* [Go语言及Beego框架环境搭建](http://blog.liabio.cn/201910181300golang)
+* [vmware上安装linux过程记录](http://blog.liabio.cn/201910171755linux)
+* [java图形验证码实现](http://blog.liabio.cn/201910171758java)
 
 ### 热议
 
